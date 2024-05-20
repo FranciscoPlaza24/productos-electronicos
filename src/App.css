@@ -1,0 +1,11 @@
+.Header {
+  /* Ajustar al ancho completo del cuerpo y altura 100px */
+  width: 1920px;
+  height: 200px;
+  position: relative;
+  left: -8px;
+  top: -8px;
+  background-image: url(./assets/imagenes/header.jpg);
+
+
+}
